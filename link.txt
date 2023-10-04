@@ -1,0 +1,3 @@
+[//Teachable Machine Model Link://]
+
+https://teachablemachine.withgoogle.com/models/sVx73TJ_l/

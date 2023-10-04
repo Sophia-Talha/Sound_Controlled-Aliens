@@ -1,0 +1,24 @@
+body{
+    font-family: 'Redressed', cursive;
+    background-color: rgb(191, 243, 244);
+}
+.header_div p {
+    color: rgb(0, 0, 0);
+    letter-spacing: 0px;
+    font-size: 20px;
+}
+.main_div button{
+    font-size: 18px;
+    border-radius: 100px;
+    width: 85px;
+    height: 50px;
+    background-color: gold;
+}
+.copy_right_footer {
+    position: fixed;
+    bottom: 50;
+    width:100%;
+    font-size: 20px;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(210, 210, 210);
+}
